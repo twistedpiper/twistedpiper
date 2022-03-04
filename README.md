@@ -2,7 +2,7 @@
 - 👀 I’m a professional FrontEnd Web Application Developer and Designer... mouthful... with many years in development/design/marketing/IT Services
 - 🌱 I haven't been on the GitHub for years, my previous one is lost to time, so started fresh with this one
 - 💞️ I’m looking to collaborate on modular design oriented concepts and Design First Development approaches ...
-- 📫 I'm an expert in html/css/jquery and some other stuff ..
+- 📫 I'm an expert in html/css, jquery once upon a time, web GUI prototyping and some other stuff ..
 - Development Interests: SVG, D3, 3D, Video Game Modding, template optimization.
 
 <!---
